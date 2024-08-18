@@ -1,0 +1,90 @@
+{
+  "id": "ahi-poke",
+  "title": "Ahi Poke",
+  "description": "A traditional Hawaiian dish made with fresh raw fish, typically tuna, marinated in soy sauce and sesame oil, and served with various toppings.",
+  "imageUrl": "https://example.com/ahi-poke.jpg",
+  "ingredients": [
+    {
+      "name": "Ahi tuna",
+      "amount": "1",
+      "unit": "pound"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4",
+      "unit": "cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2",
+      "unit": "stalks"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "unit": "whole"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut the Ahi tuna into small cubes."
+    },
+    {
+      "step": 2,
+      "description": "In a bowl, mix the soy sauce, sesame oil, and sea salt."
+    },
+    {
+      "step": 3,
+      "description": "Add the cubed tuna to the bowl and toss to coat."
+    },
+    {
+      "step": 4,
+      "description": "Chop the green onions and add them to the mixture."
+    },
+    {
+      "step": 5,
+      "description": "Sprinkle sesame seeds on top."
+    },
+    {
+      "step": 6,
+      "description": "Serve with sliced avocado."
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 2,
+  "nutritionalInfo": {
+    "calories": 300,
+    "protein": 30,
+    "carbohydrates": 5,
+    "fat": 20
+  },
+  "difficultyLevel": "Easy",
+  "specialEquipment": [],
+  "tips": [
+    "Use the freshest tuna available for the best flavor.",
+    "Serve with rice or salad for a complete meal."
+  ],
+  "relatedRecipeIds": [
+    "ahi-poke-bowl",
+    "ahi-poke-salad",
+    "ahi-poke-tacos",
+    "ahi-poke-sushi"
+  ]
+}

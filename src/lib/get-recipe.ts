@@ -25,7 +25,7 @@ const nutritionalInfoSchema = z.object({
 
 const mealPlanningSuggestionSchema = z.object({
     id: z.string(),
-    type: z.enum(["Side Dish", "Dessert", "Drink"]),
+    type: z.enum(["Side Dish", "Dessert", "Drink"]).or(z.string()),
 });
 
 const commentSchema = z.object({
@@ -73,7 +73,7 @@ export const getRecipe = async (id: string): Promise<Recipe> => {
 
 
         const {object} = await generateObject({
-            model: openai('gpt-4-turbo'),
+            model: openai('gpt-4o-mini'),
             schema: recipeSchema,
             prompt: `Generate a recipe with the ID "${id}". For the relatedRecipedIds always generate the id as 3 hyphenated words, similar to how the id is provided. `
         });

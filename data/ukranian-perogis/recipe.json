@@ -1,0 +1,116 @@
+{
+  "id": "ukranian-perogis",
+  "title": "Ukrainian Perogis",
+  "description": "Delicious dumplings filled with potatoes and cheese, served with sour cream.",
+  "imageUrl": "https://example.com/perogis.jpg",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "Flour",
+      "amount": "3",
+      "unit": "cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "unit": "large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "to taste",
+      "unit": ""
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Boil the potatoes until tender, then mash them."
+    },
+    {
+      "step": 2,
+      "description": "In a pan, sauté chopped onions in butter until golden."
+    },
+    {
+      "step": 3,
+      "description": "Mix the mashed potatoes, cheese, and sautéed onions together."
+    },
+    {
+      "step": 4,
+      "description": "In a bowl, combine flour, salt, and egg to form a dough."
+    },
+    {
+      "step": 5,
+      "description": "Roll out the dough and cut into circles."
+    },
+    {
+      "step": 6,
+      "description": "Place a spoonful of filling on each circle and fold over, sealing the edges."
+    },
+    {
+      "step": 7,
+      "description": "Boil the perogis in salted water until they float."
+    },
+    {
+      "step": 8,
+      "description": "Serve with sour cream."
+    }
+  ],
+  "prepTime": 30,
+  "cookTime": 20,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 350,
+    "protein": 10,
+    "carbohydrates": 50,
+    "fat": 15
+  },
+  "difficultyLevel": "Medium",
+  "specialEquipment": [
+    "Rolling Pin",
+    "Potato Masher"
+  ],
+  "tips": [
+    "Use leftover mashed potatoes for the filling.",
+    "Add herbs for extra flavor."
+  ],
+  "relatedRecipeIds": [
+    "ukranian-salad",
+    "ukranian-borscht",
+    "ukranian-cabbage-rolls",
+    "ukranian-pancakes"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "ukranian-salad",
+      "type": "Side Dish"
+    },
+    {
+      "id": "ukranian-borscht",
+      "type": "Main Dish"
+    }
+  ]
+}

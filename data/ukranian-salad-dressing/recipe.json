@@ -1,0 +1,86 @@
+{
+  "id": "ukranian-salad-dressing",
+  "title": "Ukrainian Salad Dressing",
+  "description": "A tangy and flavorful dressing perfect for fresh salads, inspired by traditional Ukrainian flavors.",
+  "imageUrl": "https://example.com/ukrainian-salad-dressing.jpg",
+  "ingredients": [
+    {
+      "name": "Sunflower oil",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/4",
+      "unit": "cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "unit": "cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a bowl, whisk together the sunflower oil, vinegar, Dijon mustard, and honey until well combined."
+    },
+    {
+      "step": 2,
+      "description": "Mince the garlic and add it to the mixture."
+    },
+    {
+      "step": 3,
+      "description": "Season with salt and black pepper, then stir in the fresh dill."
+    },
+    {
+      "step": 4,
+      "description": "Taste and adjust seasoning if necessary."
+    },
+    {
+      "step": 5,
+      "description": "Serve over your favorite salad or store in the refrigerator for up to a week."
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 8,
+  "nutritionalInfo": {
+    "calories": 120,
+    "protein": 0,
+    "carbohydrates": 2,
+    "fat": 14
+  },
+  "difficultyLevel": "Easy",
+  "relatedRecipeIds": [
+    "ukranian-salad-variation",
+    "ukranian-salad-topping",
+    "ukranian-salad-ideas",
+    "ukranian-salad-pairings"
+  ]
+}

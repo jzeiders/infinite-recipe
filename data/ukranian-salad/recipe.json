@@ -1,0 +1,110 @@
+{
+  "id": "ukranian-salad",
+  "title": "Ukrainian Salad",
+  "description": "A refreshing and colorful salad made with fresh vegetables and a tangy dressing, perfect for any occasion.",
+  "imageUrl": "https://example.com/ukranian-salad.jpg",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "unit": "large"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "unit": "medium"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4",
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2",
+      "unit": "teaspoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Chop the cucumber, tomatoes, bell pepper, and red onion into bite-sized pieces."
+    },
+    {
+      "step": 2,
+      "description": "In a large bowl, combine the chopped vegetables."
+    },
+    {
+      "step": 3,
+      "description": "Finely chop the fresh parsley and add it to the bowl."
+    },
+    {
+      "step": 4,
+      "description": "In a small bowl, whisk together the olive oil, lemon juice, salt, and black pepper."
+    },
+    {
+      "step": 5,
+      "description": "Pour the dressing over the salad and toss to combine."
+    },
+    {
+      "step": 6,
+      "description": "Let the salad sit for 10 minutes before serving to allow the flavors to meld."
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 150,
+    "protein": 3,
+    "carbohydrates": 10,
+    "fat": 12
+  },
+  "difficultyLevel": "Easy",
+  "specialEquipment": [],
+  "tips": [
+    "Use fresh, ripe vegetables for the best flavor.",
+    "Feel free to add other vegetables like radishes or avocados."
+  ],
+  "relatedRecipeIds": [
+    "ukranian-salad-variation",
+    "ukranian-salad-dressing",
+    "ukranian-salad-sides",
+    "ukranian-salad-appetizers"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "ukranian-salad-variation",
+      "type": "Side Dish"
+    },
+    {
+      "id": "ukranian-salad-dressing",
+      "type": "Drink"
+    }
+  ]
+}
