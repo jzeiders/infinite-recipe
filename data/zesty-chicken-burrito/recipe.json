@@ -1,0 +1,158 @@
+{
+  "id": "zesty-chicken-burrito",
+  "title": "Zesty Chicken Burrito",
+  "description": "A flavorful and hearty burrito filled with zesty marinated chicken, rice, beans, and fresh vegetables, wrapped in a soft flour tortilla.",
+  "imageUrl": "https://example.com/images/zesty-chicken-burrito.jpg",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500",
+      "unit": "g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4",
+      "unit": "pieces"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "black beans",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "corn",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "chopped lettuce",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "4",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Marinate the chicken with lime juice, garlic powder, cumin, chili powder, salt, and pepper for at least 30 minutes."
+    },
+    {
+      "step": 2,
+      "description": "Grill the chicken until fully cooked and slice it into strips."
+    },
+    {
+      "step": 3,
+      "description": "Warm the tortillas in a skillet or microwave."
+    },
+    {
+      "step": 4,
+      "description": "Assemble the burritos by laying a tortilla flat and spreading rice, beans, corn, lettuce, tomatoes, chicken, cheese, and sour cream."
+    },
+    {
+      "step": 5,
+      "description": "Fold the tortillas over the filling, tucking in the ends, and roll tightly."
+    },
+    {
+      "step": 6,
+      "description": "Serve the burritos warm."
+    }
+  ],
+  "prepTime": 40,
+  "cookTime": 20,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 650,
+    "protein": 38,
+    "carbohydrates": 75,
+    "fat": 22
+  },
+  "difficultyLevel": "Medium",
+  "specialEquipment": [
+    "Grill",
+    "Skillet"
+  ],
+  "tips": [
+    "For extra zest, add a tablespoon of chopped cilantro to the rice.",
+    "Use a damp paper towel to cover the tortillas when microwaving to keep them soft."
+  ],
+  "relatedRecipeIds": [
+    "spicy-beef-taco",
+    "creamy-avocado-salsa",
+    "fresh-corn-salad",
+    "tangy-lime-rice"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "creamy-avocado-salsa",
+      "type": "Side Dish"
+    },
+    {
+      "id": "fresh-corn-salad",
+      "type": "Side Dish"
+    }
+  ],
+  "userRating": 4.5,
+  "comments": [
+    {
+      "user": "JohnDoe",
+      "date": "2023-11-30T12:00:00Z",
+      "content": "Absolutely delicious! The marinade for the chicken is perfect.",
+      "rating": 5
+    },
+    {
+      "user": "JaneSmith",
+      "date": "2023-12-01T12:00:00Z",
+      "content": "Loved it, but it was a bit too spicy for my kids.",
+      "rating": 4
+    }
+  ]
+}

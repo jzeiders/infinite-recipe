@@ -1,0 +1,142 @@
+{
+  "id": "texas-mac-cheese",
+  "title": "Texas Mac & Cheese",
+  "description": "A hearty twist on the classic macaroni and cheese, infused with bold Texan flavors like smoked beef and jalapeños.",
+  "imageUrl": "https://example.com/images/texas-mac-cheese.jpg",
+  "ingredients": [
+    {
+      "name": "elbow macaroni",
+      "amount": "500",
+      "unit": "grams"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "3",
+      "unit": "cups"
+    },
+    {
+      "name": "smoked beef",
+      "amount": "200",
+      "unit": "grams"
+    },
+    {
+      "name": "jalapeños",
+      "amount": "2",
+      "unit": "pieces"
+    },
+    {
+      "name": "milk",
+      "amount": "2",
+      "unit": "cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "unit": "teaspoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cook the macaroni according to package instructions until al dente."
+    },
+    {
+      "step": 2,
+      "description": "In a separate pan, melt butter and add flour to make a roux. Cook for about 2 minutes."
+    },
+    {
+      "step": 3,
+      "description": "Gradually add milk to the roux while stirring continuously to avoid lumps. Cook until the sauce thickens."
+    },
+    {
+      "step": 4,
+      "description": "Add cheddar cheese to the sauce and stir until melted and smooth."
+    },
+    {
+      "step": 5,
+      "description": "Mix in the cooked macaroni, smoked beef, and diced jalapeños."
+    },
+    {
+      "step": 6,
+      "description": "Season with garlic powder, onion powder, salt, and pepper."
+    },
+    {
+      "step": 7,
+      "description": "Transfer to a baking dish and bake at 180°C for 20 minutes or until the top is golden brown."
+    }
+  ],
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 780,
+    "protein": 35,
+    "carbohydrates": 85,
+    "fat": 35
+  },
+  "difficultyLevel": "Medium",
+  "specialEquipment": [
+    "Oven",
+    "Stovetop"
+  ],
+  "tips": [
+    "For a smokier flavor, add smoked paprika to the cheese sauce.",
+    "Top with breadcrumbs for extra crunch before baking."
+  ],
+  "relatedRecipeIds": [
+    "spicy-beef-tacos",
+    "smoky-pulled-pork",
+    "creamy-jalapeno-dip",
+    "tangy-bbq-sauce"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "creamy-jalapeno-dip",
+      "type": "Side Dish"
+    },
+    {
+      "id": "tangy-bbq-sauce",
+      "type": "Dessert"
+    }
+  ],
+  "userRating": 4.5,
+  "comments": [
+    {
+      "user": "JohnDoe",
+      "date": "2023-11-30T15:00:00Z",
+      "content": "Absolutely loved it! The smoky flavor is just perfect.",
+      "rating": 5
+    },
+    {
+      "user": "JaneSmith",
+      "date": "2023-12-01T12:34:00Z",
+      "content": "A bit too spicy for my taste, but still very tasty.",
+      "rating": 4
+    }
+  ]
+}

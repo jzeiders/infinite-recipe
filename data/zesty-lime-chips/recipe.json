@@ -1,0 +1,66 @@
+{
+  "id": "zesty-lime-chips",
+  "title": "Zesty Lime Tortilla Chips",
+  "description": "Crispy homemade tortilla chips flavored with a tangy lime zest and a hint of salt. Perfect for snacking or serving alongside your favorite dips.",
+  "imageUrl": "https://example.com/zesty-lime-chips.jpg",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "10",
+      "unit": "pieces"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "2",
+      "unit": "tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2",
+      "unit": "cups"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cut the corn tortillas into wedges."
+    },
+    {
+      "step": 2,
+      "description": "Heat the oil in a large frying pan over medium heat."
+    },
+    {
+      "step": 3,
+      "description": "Fry the tortilla wedges in batches until crispy, about 2-3 minutes per side."
+    },
+    {
+      "step": 4,
+      "description": "Drain the chips on paper towels."
+    },
+    {
+      "step": 5,
+      "description": "While still warm, sprinkle the chips with lime zest and salt."
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 150,
+    "protein": 2,
+    "carbohydrates": 18,
+    "fat": 8
+  },
+  "difficultyLevel": "Easy",
+  "relatedRecipeIds": [
+    "spicy-guacamole-dip",
+    "creamy-salsa-verde",
+    "tangy-pico-de-gallo",
+    "refreshing-cilantro-lime"
+  ]
+}

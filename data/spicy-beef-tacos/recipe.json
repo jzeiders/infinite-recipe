@@ -1,0 +1,113 @@
+{
+  "id": "spicy-beef-tacos",
+  "title": "Spicy Beef Tacos",
+  "description": "Delicious and easy-to-make spicy beef tacos, perfect for a quick dinner or a fun gathering.",
+  "imageUrl": "https://example.com/images/spicy-beef-tacos.jpg",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500",
+      "unit": "grams"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "1",
+      "unit": "packet"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "unit": "pieces"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "100",
+      "unit": "grams"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1",
+      "unit": "head"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "unit": "pieces"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "100",
+      "unit": "grams"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Cook the ground beef over medium heat until browned."
+    },
+    {
+      "step": 2,
+      "description": "Add the taco seasoning and follow the packet instructions."
+    },
+    {
+      "step": 3,
+      "description": "Warm the tortillas in a pan or microwave."
+    },
+    {
+      "step": 4,
+      "description": "Assemble the tacos by placing beef, cheese, lettuce, and tomatoes in each tortilla."
+    },
+    {
+      "step": 5,
+      "description": "Top with a dollop of sour cream and serve immediately."
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 540,
+    "protein": 26,
+    "carbohydrates": 35,
+    "fat": 32
+  },
+  "difficultyLevel": "Easy",
+  "specialEquipment": [
+    "Non-stick skillet"
+  ],
+  "tips": [
+    "For a healthier version, use low-fat sour cream and cheese.",
+    "Add jalapeños or hot sauce for extra spice."
+  ],
+  "relatedRecipeIds": [
+    "zesty-chicken-burrito",
+    "savory-rice-pilaf",
+    "creamy-guacamole-dip",
+    "refreshing-citrus-salad"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "creamy-guacamole-dip",
+      "type": "Side Dish"
+    },
+    {
+      "id": "refreshing-citrus-salad",
+      "type": "Dessert"
+    }
+  ],
+  "userRating": 4.5,
+  "comments": [
+    {
+      "user": "JaneDoe",
+      "date": "2023-11-15T14:20:00Z",
+      "content": "Absolutely loved these tacos! Perfect spice level.",
+      "rating": 5
+    },
+    {
+      "user": "JohnSmith",
+      "date": "2023-11-16T08:30:00Z",
+      "content": "Good, but a bit too spicy for the kids.",
+      "rating": 3
+    }
+  ]
+}

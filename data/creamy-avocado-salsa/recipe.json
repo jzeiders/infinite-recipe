@@ -1,0 +1,111 @@
+{
+  "id": "creamy-avocado-salsa",
+  "title": "Creamy Avocado Salsa",
+  "description": "A smooth and creamy dip perfect for any party or gathering. This avocado salsa blends ripe avocados with sour cream, lime, and cilantro for a refreshing and tangy flavor.",
+  "imageUrl": "https://example.com/creamy-avocado-salsa.jpg",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "unit": "whole"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1",
+      "unit": "cup"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "unit": "whole"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4",
+      "unit": "cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1",
+      "unit": "clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4",
+      "unit": "teaspoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Peel and pit the avocados, then mash them in a bowl."
+    },
+    {
+      "step": 2,
+      "description": "Finely chop the cilantro and garlic."
+    },
+    {
+      "step": 3,
+      "description": "Squeeze the juice from the lime into the bowl with avocados."
+    },
+    {
+      "step": 4,
+      "description": "Add sour cream, cilantro, garlic, salt, and pepper to the bowl."
+    },
+    {
+      "step": 5,
+      "description": "Mix all ingredients until well combined and creamy."
+    },
+    {
+      "step": 6,
+      "description": "Chill in the refrigerator for at least 30 minutes before serving."
+    }
+  ],
+  "prepTime": 10,
+  "cookTime": 0,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 150,
+    "protein": 2,
+    "carbohydrates": 8,
+    "fat": 12
+  },
+  "difficultyLevel": "Easy",
+  "specialEquipment": [
+    "Bowl",
+    "Masher"
+  ],
+  "tips": [
+    "For a spicier salsa, add a diced jalapeño.",
+    "Serve with tortilla chips or as a topping for tacos."
+  ],
+  "relatedRecipeIds": [
+    "spicy-tomato-dip",
+    "zesty-lime-chips",
+    "fresh-corn-salad",
+    "creamy-cilantro-dressing"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "spicy-tomato-dip",
+      "type": "Side Dish"
+    },
+    {
+      "id": "zesty-lime-chips",
+      "type": "Side Dish"
+    },
+    {
+      "id": "fresh-corn-salad",
+      "type": "Side Dish"
+    },
+    {
+      "id": "creamy-cilantro-dressing",
+      "type": "Dessert"
+    }
+  ]
+}

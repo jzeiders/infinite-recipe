@@ -1,0 +1,94 @@
+{
+  "id": "tangy-pico-de-gallo",
+  "title": "Tangy Pico de Gallo",
+  "description": "A fresh and zesty salsa made with ripe tomatoes, onions, cilantro, and a splash of lime juice. Perfect as a topping for tacos or as a dip with tortilla chips.",
+  "imageUrl": "https://example.com/images/tangy-pico-de-gallo.jpg",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4",
+      "unit": "medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1",
+      "unit": "bunch"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "unit": "medium"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1",
+      "unit": "medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "unit": "teaspoon"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Dice the tomatoes and onion into small pieces."
+    },
+    {
+      "step": 2,
+      "description": "Finely chop the cilantro and jalapeno."
+    },
+    {
+      "step": 3,
+      "description": "In a bowl, combine the tomatoes, onion, cilantro, and jalapeno."
+    },
+    {
+      "step": 4,
+      "description": "Squeeze the juice of the limes over the mixture and add salt."
+    },
+    {
+      "step": 5,
+      "description": "Mix well and let sit for at least 20 minutes to blend the flavors."
+    }
+  ],
+  "prepTime": 15,
+  "cookTime": 0,
+  "servings": 4,
+  "nutritionalInfo": {
+    "calories": 50,
+    "protein": 1.5,
+    "carbohydrates": 11,
+    "fat": 0.5
+  },
+  "difficultyLevel": "Easy",
+  "relatedRecipeIds": [
+    "spicy-guacamole-dip",
+    "crispy-tortilla-chips",
+    "refreshing-cucumber-salad",
+    "zesty-lime-margarita"
+  ],
+  "mealPlanningSuggestions": [
+    {
+      "id": "spicy-guacamole-dip",
+      "type": "Side Dish"
+    },
+    {
+      "id": "crispy-tortilla-chips",
+      "type": "Side Dish"
+    },
+    {
+      "id": "refreshing-cucumber-salad",
+      "type": "Side Dish"
+    },
+    {
+      "id": "zesty-lime-margarita",
+      "type": "Drink"
+    }
+  ]
+}
